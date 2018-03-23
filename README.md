@@ -9,8 +9,11 @@ https://github.com/lhartikk/ArnoldC/blob/master/README.md
 ### ArnoldC Documentation
 https://github.com/lhartikk/ArnoldC/wiki/ArnoldC
 
-### Compile (Compiler from ArnoldC project)
-java -jar ../Compiler/ArnoldC.jar rayterminator.arnoldc
+### Compile then run (Compiler from ArnoldC project)
+java -jar ../Compiler/ArnoldC.jar rayterminator.arnoldc; java rayterminator > image.ppm
+
+### Single line
+ java -jar ../Compiler/ArnoldC.jar -run rayterminator.arnoldc > image.ppm
 
 ## Background
 Inspired by the [LOLTracer](https://github.com/LoganKelly/LOLTracer), I wanted to see if I could make a raytracer from
