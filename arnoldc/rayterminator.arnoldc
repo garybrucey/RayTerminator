@@ -1,0 +1,362 @@
+IT'S SHOWTIME
+
+    HEY CHRISTMAS TREE width
+        YOU SET US UP 640
+    HEY CHRISTMAS TREE height
+        YOU SET US UP 480
+    HEY CHRISTMAS TREE numObjects
+        YOU SET US UP 3
+
+    TALK TO THE HAND "P3 640 480 255"
+
+    HEY CHRISTMAS TREE i
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE j
+        YOU SET US UP height
+    HEY CHRISTMAS TREE objCount
+        YOU SET US UP 0
+
+    HEY CHRISTMAS TREE cx
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE cy
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE cz
+        YOU SET US UP 0
+
+    HEY CHRISTMAS TREE viewx
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE viewy
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE viewz
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE imagePlanex
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE imagePlaney
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE imagePlanez
+        YOU SET US UP 100
+    HEY CHRISTMAS TREE pixelx
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE pixely
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE pixelz
+        YOU SET US UP 0
+
+    HEY CHRISTMAS TREE lessThanWidth
+        YOU SET US UP @NO PROBLEMO
+    HEY CHRISTMAS TREE jGreaterThanZero
+        YOU SET US UP @NO PROBLEMO
+    HEY CHRISTMAS TREE lessThanNumObjects
+        YOU SET US UP @NO PROBLEMO
+    HEY CHRISTMAS TREE hitConfirmed
+        YOU SET US UP @I LIED
+    HEY CHRISTMAS TREE anyHitConfirmed
+        YOU SET US UP @I LIED
+
+    GET TO THE CHOPPER imagePlanex
+        HERE IS MY INVITATION 0
+        GET DOWN width
+        HE HAD TO SPLIT 2
+    ENOUGH TALK
+    GET TO THE CHOPPER imagePlaney
+        HERE IS MY INVITATION 0
+        GET DOWN height
+        HE HAD TO SPLIT 2
+    ENOUGH TALK
+
+    STICK AROUND jGreaterThanZero
+
+        STICK AROUND lessThanWidth
+
+            STICK AROUND lessThanNumObjects
+                GET TO THE CHOPPER pixelx
+                    HERE IS MY INVITATION imagePlanex
+                    GET UP i
+                ENOUGH TALK
+                GET TO THE CHOPPER pixely
+                    HERE IS MY INVITATION imagePlaney
+                    GET UP j
+                ENOUGH TALK
+                GET TO THE CHOPPER pixelz
+                    HERE IS MY INVITATION imagePlanez
+                ENOUGH TALK
+
+                GET YOUR ASS TO MARS hitConfirmed
+                    DO IT NOW rayIntersection pixelx pixely pixelz viewx viewy viewz objCount
+
+                BECAUSE I'M GOING TO SAY PLEASE hitConfirmed
+                    GET TO THE CHOPPER anyHitConfirmed
+                        HERE IS MY INVITATION @NO PROBLEMO
+                    ENOUGH TALK
+                YOU HAVE NO RESPECT FOR LOGIC
+
+                GET TO THE CHOPPER objCount
+                    HERE IS MY INVITATION objCount
+                    GET UP 1
+                ENOUGH TALK
+                 GET TO THE CHOPPER lessThanNumObjects
+                    HERE IS MY INVITATION numObjects
+                    LET OFF SOME STEAM BENNET objCount
+                ENOUGH TALK
+            CHILL
+
+            BECAUSE I'M GOING TO SAY PLEASE anyHitConfirmed
+                TALK TO THE HAND "255 255 255 "
+            BULLSHIT
+                TALK TO THE HAND "0 0 0 "
+            YOU HAVE NO RESPECT FOR LOGIC
+
+            GET TO THE CHOPPER anyHitConfirmed
+                HERE IS MY INVITATION @I LIED
+            ENOUGH TALK
+
+            GET TO THE CHOPPER objCount
+                HERE IS MY INVITATION 0
+            ENOUGH TALK
+            GET TO THE CHOPPER lessThanNumObjects
+                HERE IS MY INVITATION @NO PROBLEMO
+            ENOUGH TALK
+
+            GET TO THE CHOPPER i
+                HERE IS MY INVITATION i
+                GET UP 1
+            ENOUGH TALK
+            GET TO THE CHOPPER lessThanWidth
+                HERE IS MY INVITATION width
+                LET OFF SOME STEAM BENNET i
+            ENOUGH TALK
+        CHILL
+
+        GET TO THE CHOPPER jGreaterThanZero
+            HERE IS MY INVITATION j
+            LET OFF SOME STEAM BENNET 0
+        ENOUGH TALK
+        GET TO THE CHOPPER j
+            HERE IS MY INVITATION j
+            GET DOWN 1
+        ENOUGH TALK
+
+        GET TO THE CHOPPER i
+            HERE IS MY INVITATION 0
+        ENOUGH TALK
+        GET TO THE CHOPPER lessThanWidth
+            HERE IS MY INVITATION @NO PROBLEMO
+        ENOUGH TALK
+    CHILL
+
+YOU HAVE BEEN TERMINATED
+
+LISTEN TO ME VERY CAREFULLY rayIntersection
+I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE pixelx
+I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE pixely
+I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE pixelz
+I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE viewx
+I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE viewy
+I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE viewz
+I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE objCount
+GIVE THESE PEOPLE AIR
+
+    HEY CHRISTMAS TREE objCenterx
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE objCentery
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE objCenterz
+        YOU SET US UP 150
+    HEY CHRISTMAS TREE radius
+        YOU SET US UP 30
+    HEY CHRISTMAS TREE radiusSquared
+        YOU SET US UP 0
+
+    HEY CHRISTMAS TREE a
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE b
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE bSquared
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE c
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE fourAC
+        YOU SET US UP 0
+
+
+    HEY CHRISTMAS TREE delta
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE deltaIsZero
+        YOU SET US UP @I LIED
+    HEY CHRISTMAS TREE deltaGreaterThanZero
+        YOU SET US UP @I LIED
+    HEY CHRISTMAS TREE result
+        YOU SET US UP @I LIED
+
+    GET TO THE CHOPPER objCentery
+        HERE IS MY INVITATION objCount
+        YOU'RE FIRED radius
+        YOU'RE FIRED 2
+    ENOUGH TALK
+
+    GET TO THE CHOPPER radiusSquared
+        HERE IS MY INVITATION radius
+        YOU'RE FIRED radius
+    ENOUGH TALK
+
+    HEY CHRISTMAS TREE bMinusAx
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE bMinusAy
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE bMinusAz
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE bMinusAxSquared
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE bMinusAySquared
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE bMinusAzSquared
+        YOU SET US UP 0
+
+    HEY CHRISTMAS TREE aMinusCx
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE aMinusCy
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE aMinusCz
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE aMinusCxSquared
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE aMinusCySquared
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE aMinusCzSquared
+        YOU SET US UP 0
+
+    HEY CHRISTMAS TREE bMinAMultAMinCx
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE bMinAMultAMinCy
+        YOU SET US UP 0
+    HEY CHRISTMAS TREE bMinAMultAMinCz
+        YOU SET US UP 0
+
+
+    GET TO THE CHOPPER bMinusAx
+        HERE IS MY INVITATION pixelx
+        GET DOWN viewx
+    ENOUGH TALK
+    GET TO THE CHOPPER bMinusAy
+        HERE IS MY INVITATION pixely
+        GET DOWN viewy
+    ENOUGH TALK
+    GET TO THE CHOPPER bMinusAz
+        HERE IS MY INVITATION pixelz
+        GET DOWN viewz
+    ENOUGH TALK
+
+    GET TO THE CHOPPER bMinusAxSquared
+        HERE IS MY INVITATION bMinusAx
+        YOU'RE FIRED bMinusAx
+    ENOUGH TALK
+    GET TO THE CHOPPER bMinusAySquared
+        HERE IS MY INVITATION bMinusAy
+        YOU'RE FIRED bMinusAy
+    ENOUGH TALK
+    GET TO THE CHOPPER bMinusAzSquared
+        HERE IS MY INVITATION bMinusAz
+        YOU'RE FIRED bMinusAz
+    ENOUGH TALK
+
+    GET TO THE CHOPPER aMinusCx
+        HERE IS MY INVITATION viewx
+        GET DOWN objCenterx
+    ENOUGH TALK
+    GET TO THE CHOPPER aMinusCy
+        HERE IS MY INVITATION viewy
+        GET DOWN objCentery
+    ENOUGH TALK
+    GET TO THE CHOPPER aMinusCz
+        HERE IS MY INVITATION viewz
+        GET DOWN objCenterz
+    ENOUGH TALK
+
+    GET TO THE CHOPPER aMinusCxSquared
+        HERE IS MY INVITATION aMinusCx
+        YOU'RE FIRED aMinusCx
+    ENOUGH TALK
+    GET TO THE CHOPPER aMinusCySquared
+        HERE IS MY INVITATION aMinusCy
+        YOU'RE FIRED aMinusCy
+    ENOUGH TALK
+    GET TO THE CHOPPER aMinusCzSquared
+        HERE IS MY INVITATION aMinusCz
+        YOU'RE FIRED aMinusCz
+    ENOUGH TALK
+
+    GET TO THE CHOPPER bMinAMultAMinCx
+        HERE IS MY INVITATION bMinusAx
+        YOU'RE FIRED aMinusCx
+    ENOUGH TALK
+    GET TO THE CHOPPER bMinAMultAMinCy
+        HERE IS MY INVITATION bMinusAy
+        YOU'RE FIRED aMinusCy
+    ENOUGH TALK
+    GET TO THE CHOPPER bMinAMultAMinCz
+        HERE IS MY INVITATION bMinusAz
+        YOU'RE FIRED aMinusCz
+    ENOUGH TALK
+
+    GET TO THE CHOPPER a
+        HERE IS MY INVITATION bMinusAxSquared
+        GET UP bMinusAySquared
+        GET UP bMinusAzSquared
+    ENOUGH TALK
+
+    GET TO THE CHOPPER b
+        HERE IS MY INVITATION bMinAMultAMinCx
+        GET UP bMinAMultAMinCy
+        GET UP bMinAMultAMinCz
+    ENOUGH TALK
+    GET TO THE CHOPPER b
+        HERE IS MY INVITATION b
+        YOU'RE FIRED 2
+    ENOUGH TALK
+
+    GET TO THE CHOPPER bSquared
+        HERE IS MY INVITATION b
+        YOU'RE FIRED b
+    ENOUGH TALK
+
+    GET TO THE CHOPPER c
+        HERE IS MY INVITATION aMinusCxSquared
+        GET UP aMinusCySquared
+        GET UP aMinusCzSquared
+        GET DOWN radiusSquared
+    ENOUGH TALK
+
+    GET TO THE CHOPPER fourAC
+        HERE IS MY INVITATION a
+        YOU'RE FIRED c
+        YOU'RE FIRED 4
+    ENOUGH TALK
+
+    GET TO THE CHOPPER delta
+        HERE IS MY INVITATION bSquared
+        GET DOWN fourAC
+    ENOUGH TALK
+
+    GET TO THE CHOPPER deltaIsZero
+        HERE IS MY INVITATION delta
+        YOU ARE NOT YOU YOU ARE ME 0
+    ENOUGH TALK
+    GET TO THE CHOPPER deltaGreaterThanZero
+        HERE IS MY INVITATION delta
+        LET OFF SOME STEAM BENNET 0
+    ENOUGH TALK
+
+    BECAUSE I'M GOING TO SAY PLEASE deltaIsZero
+        GET TO THE CHOPPER result
+            HERE IS MY INVITATION @NO PROBLEMO
+        ENOUGH TALK
+    YOU HAVE NO RESPECT FOR LOGIC
+    BECAUSE I'M GOING TO SAY PLEASE deltaGreaterThanZero
+        GET TO THE CHOPPER result
+            HERE IS MY INVITATION @NO PROBLEMO
+        ENOUGH TALK
+    YOU HAVE NO RESPECT FOR LOGIC
+
+    I'LL BE BACK result
+
+HASTA LA VISTA, BABY
